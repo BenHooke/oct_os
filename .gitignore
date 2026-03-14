@@ -1,0 +1,17 @@
+# Rust build artifacts
+/target
+
+# Cargo
+Cargo.lock
+
+# OS dev artifacts
+*.iso
+*.bin
+bootimage-*
+
+# Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
